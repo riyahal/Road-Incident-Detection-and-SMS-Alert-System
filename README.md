@@ -406,7 +406,7 @@ cd ~/your/desired/path
 ### 🔹 2. Clone the Repository
 
 ```
-git clone https://github.com/riyahal/Road-Incident-Detection-and-SMS-Alert-System/tree/main
+git clone https://github.com/riyahal/Road-Incident-Detection-and-SMS-Alert-System.git
 ```
 
 ---
